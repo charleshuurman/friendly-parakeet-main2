@@ -25,12 +25,12 @@ or
 ## Usage
 
 1. Open the application in a web browser. By following this link: https://charleshuurman.github.io/friendly-parakeet-main2/
-![Generated Password](/friendly-parakeet-main2/Screen_Shot_1.png)
+![Generated Password](/friendly-parakeet-main2/screenshot1.png)
 2. Click the "Generate Password" button.
 3. Follow the prompts to specify the password length and character types to include.
-![Generated Password](/friendly-parakeet-main2/Screen_Shot_2.png)
+![Generated Password](/friendly-parakeet-main2/screenshot2.png)
 4. The generated password will be displayed in the textarea with the id "password."
-![Generated Password](/friendly-parakeet-main2/screen_shot_3.png)
+![Generated Password](/friendly-parakeet-main2/screenshot3.png)
 
 ## Credits
 
